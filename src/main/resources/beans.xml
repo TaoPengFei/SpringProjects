@@ -15,4 +15,7 @@
     </bean>
     <bean id="password_handler" class="org.zheng.placeholder.PasswordPostProcessor" />
     <!--place holder test end-->
+
+    <bean name="action" class="org.zheng.samename.ClassA" />
+
 </beans>
